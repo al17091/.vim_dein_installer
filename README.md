@@ -1,6 +1,6 @@
 # .vim_dein_installer
 
-This is Installer for .vimrc and dein(plugin manager)
+This is Installer for .vimrc and dein(plugin manager)  
 [dein.vim](https://github.com/Shougo/dein.vim)は[Shougo](https://github.com/Shougo)氏によって作られているvimプラグインマネージャーである。
 
 # requirement
