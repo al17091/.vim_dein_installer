@@ -1,6 +1,7 @@
 # .vim_dein_installer
 
 This is Installer for .vimrc and dein(plugin manager)
+[dein.vim](https://github.com/Shougo/dein.vim)は[Shougo](https://github.com/Shougo)氏によって作られているvimプラグインマネージャーである。
 
 # requirement
 
@@ -22,8 +23,8 @@ sh ./installer.sh
 
 # Note
 
-vim --versionの中に-python3とある場合、deopleteに影響があるため  
-~/.vim/dein/dein.toml line71以降を#でコメントアウトてください  
+vim --versionの中に-python3とある場合、[deoplete](https://github.com/Shougo/deoplete)に影響があるため  
+~/.vim/dein/dein.toml line71以降を#でコメントアウトしてください  
 ctagsとgitとpython3がない場合、インストールせずに終了します。  
 
 # Author
