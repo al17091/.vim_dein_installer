@@ -8,7 +8,7 @@ This is Installer for .vimrc and dein(plugin manager)
 * ctags
 * python3
 * vim 8.0
-* vim support("+python3")
+* vim support("+python3")  
 を必要をします。+python3は推奨、なくても最低限の動きはある。
 
 # Installation
