@@ -48,3 +48,5 @@ cp ./dein.toml ~/.vim/dein/dein.toml
 cp ./dein_lazy.toml ~/.vim/dein/dein_lazy.toml
 vim +"call dein#install()" +qall
 
+cd
+sudo rm -r ./.vim_dein_installer
